@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @D3f4ult
+- 👀 I’m interested in cybersecurity and secure development
+- 🌱 I’m currently learning web application devlopment why pursuing study in penetration testing
