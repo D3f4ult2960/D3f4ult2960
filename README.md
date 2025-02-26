@@ -1,3 +1,12 @@
-- 👋 Hi, I’m @D3f4ult
-- 👀 I’m interested in cybersecurity and secure development
-- 🌱 I’m currently learning web application devlopment why pursuing study in penetration testing
+Hi, I am Darius Johnson
+
+I am a full stack developer with greater emphasis in server-side programming
+
+Technoloigies that i use:
+Reactjs
+express.js
+typescript
+Golang
+python,
+Mysql 
+Monogo db
